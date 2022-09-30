@@ -1,0 +1,2 @@
+# releONconenergiaresidual
+Programa en Python para activar un relé cuando la carga de las baterías de un sistema de energía que las use esté por encima de un determinado nivel. En nuestro caso, el sistema de energía es el de LuzparaelEko y para la consulta se usa el script generado por https://github.com/david-ueman, que consulta a su vez una base de datos en un servidor. Enlace al proyecto del script: https://github.com/david-ueman/axpertbot-lite
